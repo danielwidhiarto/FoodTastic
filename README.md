@@ -1,39 +1,41 @@
 # FoodTastic
-An Android-based food viewing app that allows users to explore a variety of food from around the world with detailed descriptions.
 
-## Features
+FoodTastic is a Kotlin-based application that brings the world of diverse cuisines to your fingertips. Explore a rich catalog of foods, view detailed information, and create your profile page to enhance your culinary journey.
 
-- List of food in the recycler view
-![Food List View](/snapshot/Screenshot_20231123_095018.png)
-![Food List View - 2](/snapshot/Screenshot_20231123_095046.png)
+## Features include
 
-- Food details view
-![Food Detail View](/snapshot/Screenshot_20231123_095122.png)
+- Global Cuisine Catalogue: Explore a wide range of foods from different cultures around the world.
 
-- Share Food Information
-![Share Food Info](/snapshot/Screenshot_20231123_095129.png)
+- Detailed Food Profiles: Get in-depth information on each food, including ingredients, preparation, and cultural significance.
 
-- Profile view with picture, name, and email
-![Profile Page](/snapshot/Screenshot_20231123_095138.png)
+- User Profile Page: Create and personalize your profile to keep track of your favorite foods and share your culinary experiences.
 
 ## Getting Started
 
-To get started with the app, simply download it from the Google Play Store and install it on your Android device.
+To run FoodTastic on your local computer, follow these steps
+
+1. **Clone the repository: Clone this repository to your local machine using `git clone https://github.com/yourusername/FoodTastic.git`.
+
+2. **Open in Android Studio**: Open the project in Android Studio or your preferred Kotlin IDE.
+
+3. **Run the application**: Build and run the application on your emulator or connected device.
 
 ## Usage
 
-When you open the app, you will see a list of food in a recycler view. Clicking on any food item will open the food details view, where you can read a detailed description of the food.
+- Explore Foods: Browse the extensive catalog of foods from different regions and cultures.
 
-To access your profile, click on the button in the top right corner of the home menu. Here, you can view your picture, name, and email.
+- View Food Details: Access detailed information about each food, including images, ingredients, and cooking methods.
 
-## Contributing
+- Create Profile: Log in and create your profile page to personalize your FoodTastic experience.
 
-If you would like to contribute to the development of Food Explorer, please fork the repository and submit a pull request.
+## Contribute
 
-## Credits
+If you'd like to contribute to the development of FoodTastic, please fork the repository and submit a pull request. Follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-Food Explorer was developed by [Emmanuel Daniel Widhiarto]. 
+## Support and issues
 
-## License
+For support or to report issues, please open an issue on the [GitHub repository](https://github.com/yourusername/FoodTastic/issues). We appreciate your feedback and help.
 
-This project is licensed under the [MIT] License - see the [LICENSE.md](LICENSE.md) file for details.
+## Licence
+
+FoodTastic is open-source software licensed under the [MIT License](LICENSE).
