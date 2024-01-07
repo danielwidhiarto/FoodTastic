@@ -30,7 +30,7 @@ To run FoodTastic on your local computer, follow these steps
 
 ## Contribute
 
-If you'd like to contribute to the development of FoodTastic, please fork the repository and submit a pull request. Follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
+  If you would like to contribute to the development of FoodTastic, please fork the repository and submit a pull request. We welcome your contributions and feedback.
 
 ## Support and issues
 
