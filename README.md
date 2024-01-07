@@ -4,17 +4,17 @@ FoodTastic is a Kotlin-based application that brings the world of diverse cuisin
 
 ## Features include
 
-- Global Cuisine Catalogue: Explore a wide range of foods from different cultures around the world.
+- **Global Cuisine Catalogue**: Explore a wide range of foods from different cultures around the world.
 
-- Detailed Food Profiles: Get in-depth information on each food, including ingredients, preparation, and cultural significance.
+- **Detailed Food Profiles**: Get in-depth information on each food, including ingredients, preparation, and cultural significance.
 
-- User Profile Page: Create and personalize your profile to keep track of your favorite foods and share your culinary experiences.
+- **User Profile Page**: Create and personalize your profile to keep track of your favorite foods and share your culinary experiences.
 
 ## Getting Started
 
 To run FoodTastic on your local computer, follow these steps
 
-1. **Clone the repository: Clone this repository to your local machine using `git clone https://github.com/yourusername/FoodTastic.git`.
+1. **Clone the repository**: Clone this repository to your local machine using `git clone https://github.com/yourusername/FoodTastic.git`.
 
 2. **Open in Android Studio**: Open the project in Android Studio or your preferred Kotlin IDE.
 
@@ -22,11 +22,11 @@ To run FoodTastic on your local computer, follow these steps
 
 ## Usage
 
-- Explore Foods: Browse the extensive catalog of foods from different regions and cultures.
+- **Explore Foods**: Browse the extensive catalog of foods from different regions and cultures.
 
-- View Food Details: Access detailed information about each food, including images, ingredients, and cooking methods.
+- **View Food Details**: Access detailed information about each food, including images, ingredients, and cooking methods.
 
-- Create Profile: Log in and create your profile page to personalize your FoodTastic experience.
+- **Create Profile**: Log in and create your profile page to personalize your FoodTastic experience.
 
 ## Contribute
 
