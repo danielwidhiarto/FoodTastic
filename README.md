@@ -1,6 +1,10 @@
+# Rating
+
+[![CodeFactor](https://www.codefactor.io/repository/github/danielwidhiarto/foodtastic/badge)](https://www.codefactor.io/repository/github/danielwidhiarto/foodtastic)
+
 # FoodTastic
 
-FoodTastic is a Kotlin-based application that brings the world of diverse cuisines to your fingertips. Explore a rich catalog of foods, view detailed information, and create your profile page to enhance your culinary journey.
+FoodTastic is a Kotlin-based application that brings the world of diverse cuisines to your fingertips. Explore a rich catalogue of foods, view detailed information, and create your profile page to enhance your culinary journey.
 
 ## Features include
 
@@ -8,7 +12,7 @@ FoodTastic is a Kotlin-based application that brings the world of diverse cuisin
 
 - **Detailed Food Profiles**: Get in-depth information on each food, including ingredients, preparation, and cultural significance.
 
-- **User Profile Page**: Create and personalize your profile to keep track of your favorite foods and share your culinary experiences.
+- **User Profile Page**: Create and personalize your profile to keep track of your favourite foods and share your culinary experiences.
 
 ## Getting Started
 
@@ -22,7 +26,7 @@ To run FoodTastic on your local computer, follow these steps
 
 ## Usage
 
-- **Explore Foods**: Browse the extensive catalog of foods from different regions and cultures.
+- **Explore Foods**: Browse the extensive catalogue of foods from different regions and cultures.
 
 - **View Food Details**: Access detailed information about each food, including images, ingredients, and cooking methods.
 
