@@ -4,7 +4,6 @@
 
 ### Discover the World's Cuisines at Your Fingertips
 
-[![CodeFactor](https://www.codefactor.io/repository/github/danielwidhiarto/foodtastic/badge)](https://www.codefactor.io/repository/github/danielwidhiarto/foodtastic)
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=flat)](https://www.android.com/)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple.svg?style=flat)](https://kotlinlang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
